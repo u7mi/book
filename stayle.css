@@ -1,0 +1,38 @@
+.nav-item :hover {
+    background-color: rgb(6, 6, 6);
+    color: rgb(251, 244, 244);
+    transition: 0.5 ease-in !important;
+}
+.nav-item{
+
+    transition: 0.5 ease-out !important;
+}
+.halo-mrx{
+    color: white;
+    background-color: rgb(115, 115, 219);
+}
+.navbar-brand{
+    color: white;
+
+}
+.halo{
+    margin-left: 20% ;
+}
+.halo-meshk{
+    margin-left:10%;
+}
+.mamlakaty-shaytan{
+    margin-left: 20%;
+}
+.chl{
+    margin-left: 20%;
+}
+.shaytan{
+    margin-left: 20%;
+}
+.atom{
+    margin-left: 20%;
+}
+.yoga{
+    margin-left: 20%;
+}
